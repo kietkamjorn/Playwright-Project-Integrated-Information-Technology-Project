@@ -1,4 +1,3 @@
-# Playwright-Project-Integrated-Information-Technology-Project
 # ITB MShop — Playwright Cucumber E2E Tests
 
 This project contains an end-to-end test automation suite for the ITB MShop e-commerce web application.
