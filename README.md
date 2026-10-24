@@ -125,7 +125,7 @@ npx playwright install chromium
 Create a `.env` file in the project root:
 
 ```env
-BASE_URL=http://localhost:5173/kp4
+BASE_URL=http://168.110.9.184/kp4/
 HEADLESS=true
 ```
 
