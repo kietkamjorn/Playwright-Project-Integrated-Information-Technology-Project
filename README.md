@@ -27,16 +27,16 @@ This project was created as a QA Automation portfolio project to demonstrate:
 
 The tests target the ITB MShop web application.
 
-### Local Frontend
+### Deployed Frontend
 
 ```text
-http://localhost:5173/kp4
+http://168.110.9.184/kp4/
 ```
 
 ### Sign In Page
 
 ```text
-http://localhost:5173/kp4/signin
+http://168.110.9.184/kp4/signin
 ```
 
 ---
@@ -92,7 +92,7 @@ http://localhost:5173/kp4/signin
 
 The current test suite covers the Sign In feature:
 
-- **Successful buyer sign in:** Verify that a buyer is redirected to the sale item gallery after signing in.
+- **Successful buyer sign-in:** Verify that a buyer is redirected to the sale item gallery after signing in.
 - **Empty form validation:** Verify that the Sign In button is disabled when no data is entered.
 - **Invalid credentials:** Verify that an error message is displayed when login credentials are rejected.
 - **Missing password validation:** Verify that the Sign In button remains disabled when the password is empty.
